@@ -1,3 +1,6 @@
 [submodule "aws_terraform"]
 	path = aws_terraform
 	url = https://github.com/whs-dontdothat-aws/aws_terraform.git
+[submodule "Don-t-Do-That-AWS-GitBook"]
+	path = Don-t-Do-That-AWS-GitBook
+	url = https://github.com/whs-dontdothat-aws/Don-t-Do-That-AWS-GitBook.git
